@@ -37,3 +37,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+.DS_Store
+.Rprofile
+/themes/.DS_Store
+/themes/hugo-lithium
