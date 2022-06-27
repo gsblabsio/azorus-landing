@@ -1,5 +1,5 @@
 title: "Azorus"
-baseURL: "https://www.azorus.xyz"
+baseURL: "https://azorus.xyz/"
 languageCode: "en-US"
 theme: "osprey-delight"
 tags: ["personal", "homepage", "portfolio"]
@@ -41,7 +41,7 @@ Params:
 ## Social links in footer:
   Social:
   - type: github
-    url: github = "https://github.com/gsblabsio"
+    url: "https://github.com/gsblabsio/azorus"
 
 
 
